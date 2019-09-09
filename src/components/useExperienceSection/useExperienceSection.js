@@ -1,16 +1,15 @@
 import React from 'react';
 
-function useExperienceSection(title, experienceItems) {
-
+function useExperienceSection(title, experienceItems , rowFlag) {
     let count = 0;
     let elementList = experienceItems.map((item) => 
-        <div key={count++}>{item}</div>
+        <div key={count++} style={{display: `${rowFlag ? "inline-block" : "inherit"}`}} className="experience-set-item">{item}</div>
     );
 
     return (        
-        <div>
-            <h2>{title}</h2>
-            <div>
+        <div className="experience-set">
+            <div className="experience-set-title">{title}</div>
+            <div className="experience-set-list">
                 {elementList}
             </div>
         </div>
