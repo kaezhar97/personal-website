@@ -40,13 +40,13 @@ function App() {
   
   let socialMedia = useExperienceSection("Social media", [
       
-      <a href="https://www.instagram.com/octaviocardet/" target="_blank" rel="noopener noreferrer" title="My instagram: https://www.instagram.com/octaviocardet/">
+      <a href="https://www.instagram.com/octaviocardet/" target="_blank" rel="noopener noreferrer" title="My instagram: https://www.instagram.com/octaviocardet/" className="instagram-link">
         <img src={instagramLogo} width={40} height={40} alt="instagram logo" className="social-media-logo-icon instagram-logo"/>
       </a>,
-      <a href="https://www.facebook.com/octavio.g.avila" target="_blank" rel="noopener noreferrer" title="My facebook: https://www.facebook.com/octavio.g.avila">
+      <a href="https://www.facebook.com/octavio.g.avila" target="_blank" rel="noopener noreferrer" title="My facebook: https://www.facebook.com/octavio.g.avila" className="facebook-link">
         <img src={facebookLogo} width={45} height={45} alt="facebook logo" className="social-media-logo-icon facebook-logo"/>
       </a>,
-      <a href="https://www.linkedin.com/in/octavioavilacompsci97/" target="_blank" rel="noopener noreferrer" title="My linkedin: https://www.linkedin.com/in/octavioavilacompsci97/">
+      <a href="https://www.linkedin.com/in/octavioavilacompsci97/" target="_blank" rel="noopener noreferrer" title="My linkedin: https://www.linkedin.com/in/octavioavilacompsci97/" className="linkedin-link">
         <img src={linkedInLogo} width={40} height={40} alt="linkedin logo" className="social-media-logo-icon linkedin-logo"/>
       </a>
   ], true)
