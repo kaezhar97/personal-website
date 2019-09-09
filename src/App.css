@@ -76,3 +76,43 @@ body {
 .link {
   color: yellow;
 }
+
+.row-list {
+  display: inline-block;
+}
+
+.column-list {
+  display: inherit;
+}
+
+@media only screen and (max-width: 600px) {
+
+  .title-full-name {
+    color: white;
+    font-size: 120px;
+    margin-bottom: 0;
+  }
+
+  .experience-set-title{
+    color: white;
+    font-size: 20px;
+  }
+  
+  .experience-set-list {
+    color: rgb(152, 156, 233);
+    font-size: 20px;
+  }
+
+  .octavio-image{
+    top: 0;
+    left: 90;
+    width: 500px;
+    height: 100vh;
+    position: fixed;
+    opacity: 0.2;
+  }
+
+  
+
+}
+
