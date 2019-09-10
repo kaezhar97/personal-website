@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.58ff14a1.chunk.css",
+    "main.js": "/personal-website/static/js/main.232043fd.chunk.js",
+    "main.js.map": "/personal-website/static/js/main.232043fd.chunk.js.map",
+    "runtime~main.js": "/personal-website/static/js/runtime~main.f5d5d109.js",
+    "runtime~main.js.map": "/personal-website/static/js/runtime~main.f5d5d109.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/personal-website/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.3b4c92b0.chunk.js": "/personal-website/static/js/2.3b4c92b0.chunk.js",
+    "static/js/2.3b4c92b0.chunk.js.map": "/personal-website/static/js/2.3b4c92b0.chunk.js.map",
+    "index.html": "/personal-website/index.html",
+    "precache-manifest.c922164c4ddc9b679f3446a2f9bf17d3.js": "/personal-website/precache-manifest.c922164c4ddc9b679f3446a2f9bf17d3.js",
+    "service-worker.js": "/personal-website/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/personal-website/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.58ff14a1.chunk.css.map": "/personal-website/static/css/main.58ff14a1.chunk.css.map",
+    "static/media/index.css": "/personal-website/static/media/astron-boy.f4d3a83e.ttf",
+    "static/media/instagram-logo.png": "/personal-website/static/media/instagram-logo.a0d02930.png",
+    "static/media/linkedin-logo.png": "/personal-website/static/media/linkedin-logo.f08c524d.png",
+    "static/media/octavio-avila-cardet.png": "/personal-website/static/media/octavio-avila-cardet.45c9bcc4.png"
+  }
+}
