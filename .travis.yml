@@ -2,8 +2,10 @@ language: node_js
 node_js:
   - "10"
 script:
-  - echo 'Build starts!!'
-  - echo 'Installing Deps!'
+  - echo 'Installing dependencies'
   - npm install
-  - echo 'Testing!'
-  - npm run test:prod
+  - sudo apt install zip unzip
+  - echo 'Building project'
+  - npm run build
+  - echo 'Testing project'
+  - npm run test
