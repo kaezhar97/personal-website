@@ -34,7 +34,7 @@ body {
 }
 
 .title-full-name {
-  color: white;
+  color: rgba(200, 6, 248, 0.767);
   font-size: 140px;
   margin-bottom: 0;
 }
