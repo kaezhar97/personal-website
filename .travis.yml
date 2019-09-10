@@ -9,5 +9,5 @@ script:
   - echo 'Testing project'
   - npm run test
 
-  after_success:
+after_success:
   - npm run deploy
